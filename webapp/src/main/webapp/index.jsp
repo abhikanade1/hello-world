@@ -8,4 +8,4 @@
 <h2> Deploying on a kubernetes using ansible playbook -- 12/24 <h2>
 <h2> pull latest code, build, deploy container to docker hub, deploy on kubernetes using ansible playbook --12/25 <h2>
 <h2> Adding automate rollout strategy -- 12/27 <h2>
-<h4> Welcome to Boston!!! </h4>
+<h1> Welcome to Boston!!! </h1>
